@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Documentation
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/documentation
+  x-cortex-tag: documentation
+  x-cortex-type: service
