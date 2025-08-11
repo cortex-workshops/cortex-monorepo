@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: My-New-Service
+  description: None
+  x-cortex-git:
+    github:
+      repository: cortex-workshops/my-new-service
+  x-cortex-tag: my-new-service
+  x-cortex-type: service
