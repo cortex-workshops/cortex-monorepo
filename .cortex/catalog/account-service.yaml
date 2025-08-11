@@ -1,0 +1,44 @@
+openapi: 3.0.1
+info:
+  title: Account Service
+  x-cortex-apm:
+    datadog:
+      monitors:
+      - id: 12345
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Account-Service
+  x-cortex-tag: account-service
+  x-cortex-link:
+  - url: https://drive.google.com/incident_response_runbook
+    name: Incident response runbook
+    type: runbook
+  - url: http://logz.io/account-service
+    name: Logs
+    type: logs
+  x-cortex-type: service
+  x-cortex-groups:
+  - tier-1
+  - bu:fintech
+  x-cortex-issues:
+    jira:
+      projects:
+      - name: My Project
+  x-cortex-owners:
+  - name: executive
+    type: GROUP
+    provider: CORTEX
+  - type: SLACK
+    channel: private-channel
+    description: ""
+    notificationsEnabled: true
+  x-cortex-dependency:
+  - tag: api-gateway
+    description: ""
+  - tag: order-processor
+    path: ""
+    method: ""
+    description: ""
+  x-cortex-custom-metadata:
+    ENV: prod

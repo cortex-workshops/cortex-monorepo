@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Security
+  x-cortex-tag: security
+  x-cortex-type: domain
+  x-cortex-owners:
+  - name: security-team
+    type: GROUP
+    provider: CORTEX
+    description: ""
+    inheritance: APPEND
+  x-cortex-children:
+  - tag: authentication

@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Flask App
+  x-cortex-git:
+    github:
+      basepath: flask
+      repository: cortex-workshops/Account-Service
+  x-cortex-tag: flask-app
+  x-cortex-custom-metadata:
+    cortex-template-version: ""
+    cortex-generated-timestamp: 2025-02-16T20:50:03.422037245

@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Shipping Service
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Shipping-Service
+  x-cortex-tag: shipping-service
+  x-cortex-type: service

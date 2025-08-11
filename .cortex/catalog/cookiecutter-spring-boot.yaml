@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: Cookiecutter Spring Boot
+  description: Cookiecutter for standard java spring boot gradle application
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/cookiecutter-spring-boot
+  x-cortex-tag: cookiecutter-spring-boot
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: sre-team
+    type: GROUP
+    provider: CORTEX
+    description: ""

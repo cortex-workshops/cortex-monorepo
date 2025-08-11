@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: June18b
+  description: None
+  x-cortex-git:
+    github:
+      repository: cortex-workshops/June18b
+  x-cortex-tag: June18b
+  x-cortex-type: service

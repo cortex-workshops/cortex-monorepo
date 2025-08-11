@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Product Catalog
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Product-Catalog
+  x-cortex-tag: product-catalog
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: product
+    type: GROUP
+    provider: CORTEX
