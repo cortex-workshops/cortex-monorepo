@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Search Service
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Search-Service
+  x-cortex-tag: search-service
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: be-engineering
+    type: GROUP
+    provider: CORTEX
