@@ -1,0 +1,24 @@
+openapi: 3.0.1
+info:
+  title: Engineering
+  x-cortex-tag: engineering
+  x-cortex-team:
+    members:
+    - name: Jignesh Shah
+      email: jigneshshah.qa@gmail.com
+      notificationsEnabled: true
+    - name: Sunita Kapoor
+      email: sunitabk@gmail.com
+      notificationsEnabled: true
+    - name: Tim Harney
+      email: timothy.harney@earnin.com
+      notificationsEnabled: true
+    - name: Daniel Jensen
+      email: daniel.jensen@earnin.com
+      notificationsEnabled: true
+    metadata:
+      department: false
+  x-cortex-type: team
+  x-cortex-children:
+  - tag: be-engineering
+  - tag: fe-engineering
