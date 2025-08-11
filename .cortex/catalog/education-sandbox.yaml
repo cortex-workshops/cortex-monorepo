@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: education-sandbox
+  x-cortex-git:
+    gitlab:
+      alias: edu-sand
+      repository: "71496039"
+  x-cortex-tag: education-sandbox
+  x-cortex-type: service
