@@ -1,0 +1,10 @@
+openapi: 3.0.1
+info:
+  title: Account Monolith
+  x-cortex-tag: account-monolith
+  x-cortex-type: monoliths
+  x-cortex-relationships:
+  - type: monolith-to-service
+    sources: []
+    destinations:
+    - tag: account-service
