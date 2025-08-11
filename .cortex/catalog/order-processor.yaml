@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Order Processor
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Order-Processor
+  x-cortex-tag: order-processor
+  x-cortex-type: service
+  x-cortex-parents:
+  - tag: billing
