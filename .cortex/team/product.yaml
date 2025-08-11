@@ -1,0 +1,24 @@
+openapi: 3.0.1
+info:
+  title: Product
+  x-cortex-tag: product
+  x-cortex-team:
+    members:
+    - name: Taylor Schmidt
+      email: taylor.schmidt@cortex.io
+      notificationsEnabled: true
+    - name: Rich Jay
+      email: richard.jay@cortex.io
+      notificationsEnabled: true
+    - name: Anne Meirose
+      email: anne.meirose@cortex.io
+      notificationsEnabled: true
+    - name: Sally Stumbo
+      email: sally.stumbo@cortex.io
+      notificationsEnabled: true
+    - name: Rachel Rath
+      email: rachel.rath@cortex.io
+      notificationsEnabled: true
+    metadata:
+      department: false
+  x-cortex-type: team
