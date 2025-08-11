@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Create User Lambda
+  x-cortex-git: {}
+  x-cortex-tag: create-user-lambda
+  x-cortex-type: aws-lambda
+  x-cortex-infra:
+    aws:
+      cloudControl:
+      - type: AWS::Lambda::Function
+        region: us-east-2
+        accountId: "136058102940"
+        identifier: my-first-lambda-yay
