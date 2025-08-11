@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Zachary Smith
+  x-cortex-tag: zachary-smith
+  x-cortex-type: employee
+  x-cortex-owners:
+  - name: people-ops
+    type: GROUP
+    provider: CORTEX
+    description: ""
+  x-cortex-definition:
+    location: San Diego
+    department: Engineering

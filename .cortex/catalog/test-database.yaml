@@ -1,0 +1,8 @@
+openapi: 3.0.1
+info:
+  title: Database
+  x-cortex-tag: test-database
+  x-cortex-type: databases
+  x-cortex-dependency:
+  - tag: account-service
+    description: ""

@@ -1,0 +1,63 @@
+openapi: 3.0.1
+info:
+  title: Design
+  x-cortex-tag: design
+  x-cortex-link:
+  - url: https://www.google.com
+    name: Docs
+    type: Documentation
+    description: Really just google but its cool
+  x-cortex-team:
+    members:
+    - name: Blake Given
+      role: null
+      email: blake.given@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Edward Spencer
+      role: null
+      email: edward.spencer@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Heidi Smith
+      role: null
+      email: heidi.smith@grammarly.com
+      description: null
+      notificationsEnabled: true
+    - name: Ilya Elkind
+      role: null
+      email: ilya.elkind@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Jon Connelly
+      role: null
+      email: jon.connelly@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Roshni Sondhi
+      role: null
+      email: roshni.sondhi@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Stephanie Cantaley
+      role: null
+      email: stephanie.cantaley@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Stephanie Youngblood
+      role: null
+      email: stephanie.youngblood@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Taylor Schmidt
+      role: null
+      email: taylor.schmidt@cortex.io
+      description: ""
+      notificationsEnabled: false
+    metadata:
+      summary: null
+      department: false
+  x-cortex-type: team
+  x-cortex-custom-metadata:
+    codeCov:
+      grade: 3

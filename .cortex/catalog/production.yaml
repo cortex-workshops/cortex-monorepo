@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Production
+  x-cortex-tag: production
+  x-cortex-type: environment
+  x-cortex-relationships:
+  - type: environment-mapping
+    sources:
+    - tag: api-gateway
+    - tag: rest-api
+    - tag: angular-ui
+    - tag: account-service
+    destinations: []

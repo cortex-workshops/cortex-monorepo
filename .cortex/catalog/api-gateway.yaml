@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: API Gateway
+  description: API request handler.
+  x-cortex-git:
+    github:
+      repository: cortex-workshops/api-gateway
+  x-cortex-tag: api-gateway
+  x-cortex-type: service
+  x-cortex-groups:
+  - api

@@ -1,0 +1,25 @@
+openapi: 3.0.1
+info:
+  title: Executive
+  x-cortex-tag: executive
+  x-cortex-team:
+    members:
+    - name: Cathleen Wright
+      role: null
+      email: cathleen.wright@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Roshni Sondhi
+      role: null
+      email: roshni.sondhi@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Taylor Schmidt
+      role: null
+      email: taylor.schmidt@cortex.io
+      description: ""
+      notificationsEnabled: false
+    metadata:
+      summary: null
+      department: false
+  x-cortex-type: team

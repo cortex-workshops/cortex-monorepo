@@ -1,0 +1,16 @@
+openapi: 3.0.1
+info:
+  title: Cookiecutter Flask
+  description: "A flask template with Bootstrap, asset bundling+minification with\
+    \ webpack, starter templates, and registration/authentication. For use with cookiecutter."
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/cookiecutter-flask
+  x-cortex-tag: cookiecutter-flask
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: be-engineering
+    type: GROUP
+    provider: CORTEX
+    description: ""

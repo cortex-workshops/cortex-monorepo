@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: My-New-June-20-Service
+  description: None
+  x-cortex-git:
+    github:
+      repository: cortex-workshops/My-New-June-20-Service
+  x-cortex-tag: My-New-June-20-Service
+  x-cortex-type: service

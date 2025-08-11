@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Security
+  x-cortex-tag: security-team
+  x-cortex-team:
+    members:
+    - name: Taylor Schmidt
+      email: taylor.schmidt@cortex.io
+      description: ""
+      notificationsEnabled: false
+  x-cortex-type: team

@@ -1,0 +1,44 @@
+openapi: 3.0.1
+info:
+  title: FE Engineering
+  x-cortex-tag: fe-engineering
+  x-cortex-link:
+  - url: https://www.atlassian.com/software/confluence
+    name: FE Eng Team Confluence Page
+    type: DOCUMENTATION
+  x-cortex-team:
+    members:
+    - name: Gianpaul Rachiele
+      role: null
+      email: gianpaul.rachiele@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Jeff Schnitter
+      role: null
+      email: jeff.schnitter@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Randy Herasme
+      role: null
+      email: randy.herasme@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Serrita Rubino
+      role: null
+      email: serrita.rubino@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Stephanie Youngblood
+      role: null
+      email: stephanie.youngblood@cortex.io
+      description: null
+      notificationsEnabled: true
+    - name: Taylor Schmidt
+      role: null
+      email: taylor.schmidt@cortex.io
+      description: null
+      notificationsEnabled: true
+    metadata:
+      summary: Frontend Engineering Team
+      department: false
+  x-cortex-type: team

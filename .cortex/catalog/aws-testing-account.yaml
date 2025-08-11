@@ -1,0 +1,10 @@
+openapi: 3.0.1
+info:
+  title: AWS Testing Account
+  x-cortex-tag: aws-testing-account
+  x-cortex-type: aws-account
+  x-cortex-relationships:
+  - type: aws-account-hierarchy
+    sources: []
+    destinations:
+    - tag: test-database

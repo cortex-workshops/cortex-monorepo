@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Notification Handler
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Notification-Handler
+  x-cortex-tag: notification-handler
+  x-cortex-type: service

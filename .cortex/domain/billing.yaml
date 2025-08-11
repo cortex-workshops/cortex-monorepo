@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Billing
+  x-cortex-tag: billing
+  x-cortex-type: domain
+  x-cortex-parents:
+  - tag: payments

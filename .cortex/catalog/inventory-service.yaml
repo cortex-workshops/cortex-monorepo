@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Inventory Service
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Inventory-Service
+  x-cortex-tag: inventory-service
+  x-cortex-type: service

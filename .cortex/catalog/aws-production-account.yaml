@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: AWS Production Account
+  x-cortex-tag: aws-production-account
+  x-cortex-type: aws-account
+  x-cortex-relationships:
+  - type: aws-account-hierarchy
+    sources: []
+    destinations:
+    - tag: create-user-lambda
+    - tag: github-events-listener
