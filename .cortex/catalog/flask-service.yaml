@@ -1,0 +1,16 @@
+openapi: 3.0.1
+info:
+  title: Flask Service
+  x-cortex-git:
+    github:
+      basepath: flask
+      repository: cortex-workshops/Account-Service
+  x-cortex-tag: flask-service
+  x-cortex-owners:
+  - name: be-engineering
+    type: GROUP
+    provider: CORTEX
+  x-cortex-description: My Flask application
+  x-cortex-custom-metadata:
+    cortex-template-version: ""
+    cortex-generated-timestamp: 2025-02-16T20:46:58.367396099
