@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: Service-Name
+  x-cortex-git:
+    github:
+      alias: cortex
+      basepath: ""
+      repository: cortex-workshops/api-gateway
+  x-cortex-tag: service-name
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: be-engineering
+    type: GROUP
+    provider: CORTEX
+    description: ""
