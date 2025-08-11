@@ -1,0 +1,6 @@
+openapi: 3.0.1
+info:
+  title: webhook.site
+  description: The webhook.site URL is https://webhook.site/e7aa4bd7-60cd-4203-b1a1-666cbad280d4
+  x-cortex-tag: webhook-site
+  x-cortex-type: service
