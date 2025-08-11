@@ -1,0 +1,21 @@
+openapi: 3.0.1
+info:
+  title: Angular Ui
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/Angular-UI
+  x-cortex-tag: angular-ui
+  x-cortex-link:
+  - url: https://app.datadoghq.com/logs?query=angular
+    name: Logs
+    type: LOGS
+  - url: https://www.notion.so/cortexio
+    name: Runbook
+    type: RUNBOOK
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: fe-engineering
+    type: GROUP
+    provider: CORTEX
+  x-cortex-description: My Angular app!
