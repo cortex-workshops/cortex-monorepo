@@ -1,0 +1,8 @@
+openapi: 3.0.1
+info:
+  title: John Snow
+  x-cortex-tag: john-snow
+  x-cortex-type: employee
+  x-cortex-definition:
+    location: San Diego
+    department: Engineering
