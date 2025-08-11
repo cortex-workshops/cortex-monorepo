@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: SRE Team
+  x-cortex-tag: sre-team
+  x-cortex-team:
+    groups:
+    - name: cortex-workshops/sre
+      provider: GITHUB
+  x-cortex-type: team
+  x-cortex-parents:
+  - tag: engineering
