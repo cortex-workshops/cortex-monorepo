@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: Rest Api
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: cortex-workshops/REST-API
+  x-cortex-tag: rest-api
+  x-cortex-type: service
+  x-cortex-groups:
+  - api
+  x-cortex-owners:
+  - name: be-engineering
+    type: GROUP
+    provider: CORTEX
