@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: jul21-bp
+  description: None
+  x-cortex-git:
+    github:
+      repository: cortex-workshops/jul21-bp
+  x-cortex-tag: jul21-bp
+  x-cortex-type: service
