@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Finance Team
+  x-cortex-tag: finance-team
+  x-cortex-team:
+    members:
+    - name: Anne Meirose
+      email: anne.meirose@cortex.io
+      description: ""
+      notificationsEnabled: false
+  x-cortex-type: team
+  x-cortex-parents:
+  - tag: executive
