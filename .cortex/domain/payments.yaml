@@ -1,0 +1,5 @@
+openapi: 3.0.1
+info:
+  title: Payments
+  x-cortex-tag: payments
+  x-cortex-type: domain
