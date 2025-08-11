@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: People Ops
+  x-cortex-tag: people-ops
+  x-cortex-team:
+    members:
+    - name: Taylor Schmidt
+      role: null
+      email: taylor.schmidt@cortex.io
+      description: ""
+      notificationsEnabled: false
+  x-cortex-type: team
+  x-cortex-parents:
+  - tag: executive
