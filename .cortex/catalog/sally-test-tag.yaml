@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Sally-Test
+  description: None
+  x-cortex-git:
+    github:
+      repository: cortex-workshops/sally-test-tag
+  x-cortex-tag: sally-test-tag
+  x-cortex-type: service
